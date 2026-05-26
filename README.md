@@ -1,6 +1,6 @@
 📘 Atividade Prática - Fundamentos de Java
-📖 Descrição
 
+📖 Descrição
 Este repositório contém a resolução da atividade prática da unidade, desenvolvida em Java, com o objetivo de aplicar os conceitos fundamentais estudados em aula.
 A atividade consiste na resolução de 10 questões, abordando temas como:
 
